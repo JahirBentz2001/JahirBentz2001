@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Mi nombre es **Jahir Benítez **
+Mi nombre es **Jahir Benítez**
 
 🖥️ Estudio **Ingeniería en Sistemas Computacionales**
 
