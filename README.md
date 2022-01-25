@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 Mi nombre es **Jahir Benítez **
 
 🖥️ Estudio **Ingeniería en Sistemas Computacionales**
-⁉️ Tengo 21 años.
+
 ☕ Me gusta el café.
