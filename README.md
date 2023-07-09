@@ -1,4 +1,4 @@
-### Hola 👋
+### Hello 👋
 
 <!--
 **JahirBentz2001/JahirBentz2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Mi nombre es **Jahir Benítez**
+My name is **Jahir Benítez**
 
-☕ Me gusta el café.
+☕ I like coffee.
